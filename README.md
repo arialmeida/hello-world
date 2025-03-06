@@ -9,7 +9,11 @@ A map made from lidar derived surface elevations and made in ArcGIS Pro/ Spring 
 
 [Visit my web page!](https://arialmeida.github.io/hello-world/)
 
-
 ## My map image
 ![Trail](https://live.staticflickr.com/7089/26734418984_4e631b52c5_h.jpg)
 
+
+
+## Kentucky Land Cover
+![Kentucky land cover](ky-land-cover.jpg)
+***Download [GeoPDF](ky-land-cover.pdf)***
